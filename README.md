@@ -1,4 +1,6 @@
 <!-- Header with Wave -->
+![Automation Testing GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+
 <h1 align="center">Hi there 👋, I'm Shashank</h1>
 
 <!-- Typing Animation -->
@@ -27,16 +29,6 @@ I love turning complex scenarios into **clean, reliable test frameworks** and im
 - ☁️ **Cloud QA** → AWS, Azure, GCP  
 - 📊 **Agile QA** → Jira for defect tracking, reporting, and sprint collaboration  
 
----
-
-## 🖼️ Cool Testing Animations
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalR0W7plW/giphy.gif" width="300" alt="Selenium Automation" />
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="API Testing" />
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="QA Bugs to Success" />
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 
