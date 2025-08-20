@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DNS-Shashank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automation+Tester;IUI+%26+API+Automation+with+Selenium+%26+REST+Assured;Passionate+about+Building+Robust+Test+Frameworks;Always+Learning+%26+Improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automation+Tester;UI+%26+API+Automation+with+Selenium+%26+REST+Assured;Passionate+about+Building+Robust+Test+Frameworks;Always+Learning+%26+Improving" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,6 +26,15 @@ I love turning complex scenarios into **clean, reliable test frameworks** and im
 - ⚡ **CI/CD** → Jenkins, Maven, GitHub Actions  
 - ☁️ **Cloud QA** → AWS, Azure, GCP  
 - 📊 **Agile QA** → Jira for defect tracking, reporting, and sprint collaboration  
+
+---
+
+## 🖼️ Cool Testing Animations
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalR0W7plW/giphy.gif" width="300" alt="Selenium Automation" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="API Testing" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="QA Bugs to Success" />
+</p>
 
 ---
 
