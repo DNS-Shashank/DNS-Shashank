@@ -1,6 +1,3 @@
-<!-- Header with Wave -->
-![Automation Testing GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
-
 <h1 align="center">Hi there 👋, I'm Shashank</h1>
 
 <!-- Typing Animation -->
