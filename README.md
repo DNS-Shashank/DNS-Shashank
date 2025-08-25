@@ -60,10 +60,10 @@ I love turning complex scenarios into **clean, reliable test frameworks** and im
 
 ## 📌 Featured Projects  
 
-🔹 **[Automation Framework – IFS (Infor OS)](https://github.com/DNS-Shashank/IFS-Automation)**  
+🔹 **[Automation Framework – IFS (Infor OS)](https://github.com/DNS-Shashank/UserActionsInIFS-Using-HybridTestNGFramework)**  
 Custom **Selenium + TestNG** framework for regression & functional testing. Integrated with Jenkins & GitHub Actions for CI/CD + auto-reporting.  
 
-🔹 **[REST Assured API Automation – Demo Maps](https://github.com/DNS-Shashank/REST-Assured-API-Demo)**  
+🔹 **[REST Assured API Automation – Demo Maps](https://github.com/DNS-Shashank/RestAssuredCucumberFramework)**  
 API automation test suite built with **REST Assured + TestNG** to validate data integrity & performance.  
 
 ---
