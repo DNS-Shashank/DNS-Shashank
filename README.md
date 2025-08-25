@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DNS-Shashank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automation+Tester;UUI+%26+API+Automation+|+Selenium+%26+REST+Assured;Passionate+about+Building+Robust+Frameworks;Always+Learning+%26+Improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automation+Tester;UI+%26+API+Automation+|+Selenium+%26+REST+Assured;Passionate+about+Building+Robust+Frameworks;Always+Learning+%26+Improving" alt="Typing SVG" />
   </a>
 </p>
 
